@@ -1,0 +1,73 @@
+@keyframes slide-effect {
+    0% {
+        transform: translateX(-100%)
+    }
+    50% {
+        transform: translateX(0)
+    }
+    100% {
+        transform: translateX(100%)
+    }
+}
+
+@keyframes rn_surface {
+	0% {
+		transform: translateX(-100%)
+	}
+	50% {
+		transform: translateX(0)
+	}
+	100% {
+		transform: translateX(100%)
+	}
+}
+
+@keyframes rn_surfaceBack {
+	0% {
+		transform: translateX(0)
+	}
+	100% {
+		transform: translateX(100%)
+	}
+}
+
+@keyframes rn_surface-vertical {
+	0% {
+		transform: translateY(100%)
+	}
+	50% {
+		transform: translateY(0)
+	}
+	100% {
+		transform: translateY(-100%)
+	}
+}
+
+@keyframes rnPreloaderShatter {
+	0% {
+		width: 50%; 
+	}
+	100% {
+		width: 0%; 
+	} 
+}
+
+@keyframes rnPreloaderZoomInOut {
+    0% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(1.3,1.3);
+    }
+    100% {
+        transform: scale(1,1);
+    }
+}
+@keyframes rnRotate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

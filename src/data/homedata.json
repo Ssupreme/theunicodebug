@@ -1,0 +1,39 @@
+[
+    {
+        "id": "hero_section_content",
+        "title": "TheRN is placeholder text used's commonly in the graphic, print, and publishing mockups.",
+        "date": "EXPERTS SINCE 1995",
+        "desc": "The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s bundled the text with their software and stock designs.",
+        "bg_image": "./images/bg-image-1.jpg"
+    },
+    {
+        "id": "story_section_contnet",
+        "title": "Our clients usually say that our comprtomise with innovation and the strategy.",
+        "subtitle": "Our Story",
+        "image": "./images/about.jpg",
+        "path": "/company",
+        "content": [
+            "It's difficult to find examples of lorem ipsum in use before Letraset made it popular as a dummy text in the 1960s, although McClintock says he remembers coming across the lorem ipsum passage in a book of old metal type samples. So far he hasn't relocated where he once saw the passage, but the popularity of Cicero in the 15th century supports the theory that the filler text has been used for centuries.",
+            "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled."
+        ]
+    },
+    {
+        "id": "project_section_content",
+        "title": "Our Awesome Project",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "id": "clients_section_content",
+        "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui laborum.",
+        "subtitle": "OUR CLIENTS"
+    },
+    {
+        "id": "banner_section_content",
+        "banner_image": "./images/video.jpg"
+    },
+    {
+        "id": "recent_post_section_content",
+        "title": "Our Recent posts",
+        "subtitle": "SAMPLE THE GOODS"
+    }
+]

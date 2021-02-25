@@ -1,0 +1,12 @@
+[
+    {
+        "id": "blog_feature_blog_section",
+        "title": "Feature Posts",
+        "subtitle": "sample the goods"
+    },
+    {
+        "id": "blog_latest_blog_section",
+        "title": "Latest Posts",
+        "subtitle": "sample the goods"
+    }
+]

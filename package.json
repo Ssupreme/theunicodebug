@@ -1,0 +1,63 @@
+{
+  "name": "gatsby-starter-hello-world",
+  "private": true,
+  "description": "A simplified bare-bones starter for Gatsby",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "babel-plugin-styled-components": "^1.10.6",
+    "bootstrap": "^4.3.1",
+    "disqus-react": "^1.0.7",
+    "gatsby": "^2.32.6",
+    "gatsby-background-image": "^0.9.12",
+    "gatsby-image": "^2.2.34",
+    "gatsby-plugin-google-analytics": "^2.1.35",
+    "gatsby-plugin-manifest": "^2.2.40",
+    "gatsby-plugin-offline": "^3.0.25",
+    "gatsby-plugin-react-helmet": "^3.1.21",
+    "gatsby-plugin-robots-txt": "^1.5.5",
+    "gatsby-plugin-sharp": "^2.12.1",
+    "gatsby-plugin-sitemap": "^2.2.26",
+    "gatsby-plugin-styled-components": "^3.1.13",
+    "gatsby-remark-images": "^3.1.42",
+    "gatsby-source-filesystem": "^2.1.39",
+    "gatsby-transformer-json": "^2.2.20",
+    "gatsby-transformer-remark": "^2.6.48",
+    "gatsby-transformer-sharp": "^2.3.6",
+    "google-maps-react": "^2.0.2",
+    "html-react-parser": "^0.10.0",
+    "intersection-observer": "^0.7.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-gsap": "^1.2.0",
+    "react-helmet": "^5.2.1",
+    "react-hook-form": "^5.7.2",
+    "react-modal-video": "^1.2.3",
+    "react-particles-js": "^2.7.0",
+    "react-scrollmagic": "^2.1.1",
+    "react-slick": "^0.25.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^4.4.1",
+    "wowjs": "^1.1.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}

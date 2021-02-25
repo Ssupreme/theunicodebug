@@ -1,0 +1,53 @@
+[
+    {
+        "id": "about-intro-content",
+        "title": "about us",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.",
+        "featured_work": [
+            {
+                "id": "awwards_work",
+                "title": "AWWWARDS",
+                "achivments": [
+                    "Winnings 2017-2019",
+                    "Nominees 2016-2017"
+                ]
+            },
+            {
+                "id": "csswinner_work",
+                "title": "CSSWINNER",
+                "achivments": [
+                    "SOTD - CreativeAgency",
+                    "SOTD - TheRNCreative"
+                ]
+            },
+            {
+                "id": "themeforest_work",
+                "title": "FEATURES ON ThemeForest",
+                "achivments": [
+                    "Author 2017-2019",
+                    "Item 2016-2017"
+                ]
+            },
+            {
+                "id": "design_awards_work",
+                "title": "CSS Design Awards",
+                "achivments": [
+                    "Winnings 2015-2016",
+                    "Nominees 2016-2017"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "about-team-section-content",
+        "title": "Our Awesome Teams",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "id": "about-join-team-content",
+        "title": "We're Hiring. Join Our Team.",
+        "desc": "There are many variations ges of Lorem Ipsum available, but the majority have suffered. alteration in some form, by injected humour",
+        "path": "/"
+    }
+]

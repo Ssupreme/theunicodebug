@@ -1,0 +1,32 @@
+[
+    {
+        "title": "home",
+        "isSubmenu": true,
+        "submenu": [
+            {
+                "title": "Home Banner",
+                "path": "/index-banner"
+            },
+            {
+                "title": "Home Particle",
+                "path": "/index-particle"
+            },
+            {
+                "title": "Home Video",
+                "path": "/index-video"
+            },
+            {
+                "title": "Home Slider",
+                "path": "/index-slider"
+            },
+            {
+                "title": "Home Blog",
+                "path": "/index-blog"
+            }
+        ]
+    },
+    {
+        "title": "blog",
+        "path": "/blog"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": "company_page_data",
+        "banner_img": "./images/bg-image-2.jpg"
+    },
+    {
+        "id": "project_page_data",
+        "banner_img": "./images/bg-image-3.jpg"
+    },
+    {
+        "id": "contact_page_data",
+        "banner_img": "./images/contact.jpg",
+        "title": "Contact Us",
+        "subtitle": "Your fate may change because of contact with us."
+    },
+    {
+        "id": "blog_page_data",
+        "banner_img": "./images/bg-image-4.jpg",
+        "title": "Our News",
+        "subtitle": "SAMPLE THE GOODS"
+    },
+    {
+        "id": "single_project_page_data",
+        "banner_img": "./images/single-project-banner.jpg"
+    }
+]
